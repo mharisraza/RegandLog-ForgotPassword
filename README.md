@@ -11,4 +11,4 @@ name (not null)
 email(not null, unique)
 password(not null)
 
-and know you can successfully run the programme without problem.
+and now you can successfully run the programme without problem.
